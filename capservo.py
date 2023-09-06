@@ -6,6 +6,7 @@
 import time
 import board
 import touchio
+import pulseio
 touch_pad = board.A0  # Will not work for Circuit Playground Express!
 # touch_pad = board.A1  # For Circuit Playground Express
 
