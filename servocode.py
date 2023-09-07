@@ -6,8 +6,8 @@
 import time
 import board
 import pwmio
-from adafruit_motor import servo
 from digitalio import DigitalInOut, Direction, Pull
+from adafruit_motor import servo
 
 
 # create a PWMOut object on Pin A2.
