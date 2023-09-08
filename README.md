@@ -50,15 +50,51 @@ Don't just tell the reader what went wrong or was challenging!  Describe how you
 ## CircuitPython_Servo
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
-
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
+The goal of the assignment was to get a servo to move 180 in two diffrent directions with a button. I accomplished the goal by working on the button part first so I could get it to work then I did the servo part then added it all togather.
 
 ```python
-Code goes here
+# SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
+#
+# SPDX-License-Identifier: MIT
+
+"""CircuitPython Essentials Servo standard servo example"""
+import time
+import board
+import pwmio
+from digitalio import DigitalInOut, Direction, Pull
+from adafruit_motor import servo
+
+
+# create a PWMOut object on Pin A2.
+pwm = pwmio.PWMOut(board.A2, duty_cycle=2 ** 15, frequency=50)
+
+btn1 = DigitalInOut(board.D5)
+btn1.direction = Direction.INPUT
+btn1.pull = Pull.DOWN
+
+prev_state = btn1.value
+
+btn2 = DigitalInOut(board.D2)
+btn2.direction = Direction.INPUT
+btn2.pull = Pull.DOWN
+
+prev_state = btn2.value
+# Create a servo object, my_servo.
+my_servo = servo.Servo(pwm)
+
+while True:
+    if btn1.value:
+        print("BTN1  is down")  
+        for angle in range(0, 180, 5):  # 0 - 180 degrees, 5 degrees at a time.
+            my_servo.angle = angle
+      
+    if btn2.value:
+        print("BTN2  is down") 
+        for angle in range(180, 0, -5): # 180 - 0 degrees, 5 degrees at a time.
+            my_servo.angle = angle
+    
+    time.sleep(0.35) 
+  +-
 
 ```
 
