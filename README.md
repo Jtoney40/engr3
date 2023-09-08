@@ -102,8 +102,7 @@ while True:
 
 
 ### Evidence
-Pictures / Gifs of your finished work should go here.  You need to communicate what your thing does.
-For making a GIF, I recommend [ezgif.com](https://www.ezgif.com) Remember you can insert pictures using Markdown or HTML to insert an image.
+(https://github.com/Jtoney40/engr3/blob/main/media/servo_wiring%20.png?raw=true)
 
 
 
