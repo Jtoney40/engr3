@@ -112,8 +112,7 @@ while True:
 
 
 ### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
-
+The parts that helped me get though this assignemt was working on one part at a time then put them to gather. This link helped with making the servo work https://learn.adafruit.com/circuitpython-essentials/circuitpython-servo. Make sure that you indent your code because it won't work if it's not indented right.
 
 ## CircuitPython_LCD
 
