@@ -108,7 +108,8 @@ while True:
 
 
 ### Wiring
-(https://github.com/Jtoney40/engr3/blob/main/media/servo_wiring%20.png?raw=true)
+![servo_wiring ](https://github.com/Jtoney40/engr3/assets/143732462/61ea9228-1ee2-4f96-9e82-f2762854cec5)
+
 
 
 ### Reflection
