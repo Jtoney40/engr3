@@ -96,13 +96,10 @@ while True:
     time.sleep(0.35) 
   +-
 
-```
-
-**Lastly, please end this section with a link to your code or file.**  
 
 
 ### Evidence
-![WIN_20230911_11_07_09_Pro](https://github.com/Jtoney40/engr3/assets/143732462/c31c4527-8716-46de-8de0-0fc186f9e6e1)
+![ezgif com-video-to-gif (1)](https://github.com/Jtoney40/engr3/assets/143732462/8366bd9f-9754-425e-a5c2-af33f869f16a)
 
 
 
