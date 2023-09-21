@@ -191,6 +191,7 @@ Don't just tell the reader what went wrong or was challenging!  Describe how you
 The work you had to do was make a neopixle work with a distancesensor so it would change. Make sure that you try to make all your indents right.
 
 
+```python
 import time
 import board
 import adafruit_hcsr04  
@@ -260,10 +261,7 @@ while True:
     time.sleep(0.1)
 
 
-
-
-
-
+```
 
 
 
