@@ -269,4 +269,4 @@ while True:
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/08d1da58-7f3e-42d6-9870-f8c24e359d14)
 
 ### Reflection
-Parts that were hard was finding out how to code the color. The things that helped was the link the teacher gave us which is here. If you need a hint on how to organize your RGB values for step 3, I made this table for you.  Just be warned, it's a BIG hint, so click here only if you're truly stuck.  Links to an external site. 
+Parts that were hard was finding out how to code the color. The things that helped was the link the teacher gave us which is here. https://docs.google.com/spreadsheets/d/e/2PACX-1vRzoIejkQqugrDoWHBw14qTI0HifXba92WiyQ24whEnzWcCUaCDYu6ifMQKK5O5Ilkxrd7UKIxPLBCW/pubhtml. 
