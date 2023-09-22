@@ -6,7 +6,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
 * [NextAssignmentGoesHere](#NextAssignment)
-* [circuitpython_neopixle_with_distancesensor](#circuitpython).
+* [circuitpython_neopixle_with_distancesensor](#circuitpython)
 ---
 
 ## Hello_CircuitPython
