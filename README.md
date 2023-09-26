@@ -271,7 +271,7 @@ while True:
 ### Reflection
 Parts that were hard was finding out how to code the color. The things that helped was the link the teacher gave us which is here. https://docs.google.com/spreadsheets/d/e/2PACX-1vRzoIejkQqugrDoWHBw14qTI0HifXba92WiyQ24whEnzWcCUaCDYu6ifMQKK5O5Ilkxrd7UKIxPLBCW/pubhtml. Make sure that your if statements make sense and work with what you want it to do.
 
-##circuitpython_motor_control
+## circuitpython_motor_contro
 ### Description & Code Snippets
 I had to control a motor with a turner.
 ```
