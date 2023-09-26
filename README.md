@@ -7,6 +7,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [CircuitPython_LCD](#CircuitPython_LCD)
 * [NextAssignmentGoesHere](#NextAssignment)
 * [circuitpython_neopixle_with_distancesensor](#circuitpython_neopixle_sensor)
+*[circuitpython_motor_control](#circuitpython_motor_control)
 ---
 
 ## Hello_CircuitPython
@@ -269,3 +270,24 @@ while True:
 
 ### Reflection
 Parts that were hard was finding out how to code the color. The things that helped was the link the teacher gave us which is here. https://docs.google.com/spreadsheets/d/e/2PACX-1vRzoIejkQqugrDoWHBw14qTI0HifXba92WiyQ24whEnzWcCUaCDYu6ifMQKK5O5Ilkxrd7UKIxPLBCW/pubhtml. Make sure that your if statements make sense and work with what you want it to do.
+
+##circuitpython_motor_control
+### Description & Code Snippets
+I had to control a motor with a turner.
+```
+
+import board
+import analogio
+from digitalio import DigitalInOut
+import time 
+import pwmio 
+turner = analogio.AnalogIn(board.A1)
+motor = pwmio.PWMOut(board.D9)
+
+while True:
+    print(turner.value) #show value 
+    time.sleep(0.25)
+    motor.duty_cycle = turner.value 
+    
+```
+
