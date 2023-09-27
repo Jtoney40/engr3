@@ -293,3 +293,7 @@ while True:
     
 ```
 
+### evidences
+
+### Wiring 
+https://github.com/Jtoney40/engr3/blob/main/wdadawdwada.png?raw=true 
