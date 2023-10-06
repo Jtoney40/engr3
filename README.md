@@ -321,3 +321,30 @@ https://cvilleschools.onshape.com/documents/8d6cb4f1f23619488b541efa/w/61bd722aa
 
 ### Reflection
 The parts that went wrong was I made it the wrong width so the cut didn't work so make sure you read the drawing right.
+
+
+## The swing arm 
+
+### Assignment Description
+We had to make a swing arm using only drawings which is harder to do than the hanger part.
+
+### Evidence
+![image](https://github.com/Jtoney40/engr3/assets/143732462/8ab8ae0d-c4e2-48db-a8db-44d760687b54)
+
+![image](https://github.com/Jtoney40/engr3/assets/143732462/677100d7-badb-40f5-90c7-f6e7dc8dc8a0)
+
+![image](https://github.com/Jtoney40/engr3/assets/143732462/268ee9ee-c38b-4436-83dd-664bf44efac8)
+
+![image](https://github.com/Jtoney40/engr3/assets/143732462/5dbe58b4-2042-4be6-96f1-7ecdd7d2e0da)
+
+
+
+
+
+### Part Link 
+
+https://cvilleschools.onshape.com/documents/8d6cb4f1f23619488b541efa/w/61bd722aa3dfbb6791e754d1/e/c8c72d273cdbf485a49033ca 
+
+### Reflection
+The parts that went wrong was I made it the wrong width so the cut didn't work so make sure you read the drawing right.
+****
