@@ -275,10 +275,11 @@ while True:
 Parts that were hard was finding out how to code the color. The things that helped was the link the teacher gave us which is here. https://docs.google.com/spreadsheets/d/e/2PACX-1vRzoIejkQqugrDoWHBw14qTI0HifXba92WiyQ24whEnzWcCUaCDYu6ifMQKK5O5Ilkxrd7UKIxPLBCW/pubhtml. Make sure that your if statements make sense and work with what you want it to do.
 
 ## circuitpython_motor_contro
+
 ### Description & Code Snippets
 I had to control a motor with a turner.
-```
 
+```python
 import board
 import analogio
 from digitalio import DigitalInOut
@@ -291,7 +292,6 @@ while True:
     print(turner.value) #show value 
     time.sleep(0.25)
     motor.duty_cycle = turner.value 
-    
 ```
 
 ### evidences
@@ -307,7 +307,6 @@ We had to make a hanger part using only drawings.
 
 ### Evidence
 
-![hanger ](https://github.com/Jtoney40/engr3/assets/143732462/418b7493-413e-4f9d-afef-2a206bcee354)
 
 
 ### Part Link 
