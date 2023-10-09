@@ -267,7 +267,6 @@ while True:
 ### Evidence
 
 ![ezgif com-video-to-gif (2)](https://github.com/Jtoney40/engr3/assets/143732462/64b36e47-595c-4031-9092-c2933ba70bb2)
-![image](https://github.com/Jtoney40/engr3/assets/143732462/f4384385-921d-403c-9c04-1e0a98316545)
 
 ### Wiring
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/08d1da58-7f3e-42d6-9870-f8c24e359d14)
