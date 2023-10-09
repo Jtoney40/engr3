@@ -303,7 +303,7 @@ https://github.com/Jtoney40/engr3/blob/main/wdadawdwada.png?raw=true
 ## The Hanger onshape
 
 ### Assignment Description
-We had to make a hanger part using only drawings.
+We had to make a hanger part using only drawings but it's a pretty simple part build.
 
 ### Evidence
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/6f4b9826-74c5-4444-8d5f-6cf4148ed00a)
@@ -345,5 +345,5 @@ We had to make a swing arm using only drawings which is harder to do than the ha
 https://cvilleschools.onshape.com/documents/8d6cb4f1f23619488b541efa/w/61bd722aa3dfbb6791e754d1/e/c8c72d273cdbf485a49033ca 
 
 ### Reflection
-The parts that went wrong was I made it the wrong width so the cut didn't work so make sure you read the drawing right. The work was very hard to do when I haven't done it for a while.
+The parts that went wrong was I made it the wrong width so the cut didn't work so make sure you read the drawing right. The work was very hard to do when I haven't done it for a while. Make sure that you make all of your lines dinfined.
 ****
