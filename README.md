@@ -204,7 +204,7 @@ We had to make a hanger part using only drawings but it's a pretty simple part b
 https://cvilleschools.onshape.com/documents/8d6cb4f1f23619488b541efa/w/61bd722aa3dfbb6791e754d1/e/c8c72d273cdbf485a49033ca 
 
 ### Reflection
-The parts that went wrong was I made it the wrong width so the cut didn't work so make sure you read the drawing right. 
+The parts that went wrong was I made it the wrong width so the cut didn't work so make sure you read the drawing right. I made a hanger part using only drawings and it was hard. 
 
 
 ## The swing arm 
