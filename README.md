@@ -2,10 +2,8 @@
 This repository will actually serve as an aid to help you get started with your own template.  You should copy the raw form of this readme into your own, and use this template to write your own.  If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts).
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
-* [Hello_CircuitPython](#Hello_CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
-* [NextAssignmentGoesHere](#NextAssignment)
 * [circuitpython_neopixle_with_distancesensor](#circuitpython_neopixle_sensor)
 * [circuitpython_motor_control](#circuitpython_motor_control)
 * [The Hanger onshape](#The_Hanger_onshape)
