@@ -182,7 +182,7 @@ while True:
 ### evidences
 
 ### Wiring 
-https://github.com/Jtoney40/engr3/blob/main/wdadawdwada.png?raw=true 
+![Screenshot 2023-10-10 105200](https://github.com/Jtoney40/engr3/assets/143732462/4021a862-a48a-49f4-8bc4-4c12d31d34b1)
 
 
 ## The Hanger onshape
