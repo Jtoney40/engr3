@@ -189,7 +189,11 @@ https://github.com/Jtoney40/engr3/blob/main/wdadawdwada.png?raw=true
 
 ### Assignment Description
 We had to make a hanger part using only drawings but it's a pretty simple part build.
-
+Open this workspaceLinks to an external site., make a copy for yourself, and replace the word "copy" in the title with your name.  
+The first two tabs contain instructions, and the last four contain the drawings you will use to create the part. 
+Create a new part studio and rename it "swing arm."
+Design the part using the four drawings as a guide. Notice that three dimensions are not defined directly. These dimensions will change values, so it is a good idea to define them as variables so that you can easily change them later.
+Update the model based on the dimensions and materials listed in the instructions step 2 tab of the your Swing Arm -- Just Drawings document.
 ### Evidence
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/6f4b9826-74c5-4444-8d5f-6cf4148ed00a)
 
