@@ -60,7 +60,7 @@ while True:
 
 ### Evidence
 ![ezgif com-video-to-gif (1)](https://github.com/Jtoney40/engr3/assets/143732462/8366bd9f-9754-425e-a5c2-af33f869f16a)
-https://github.com/Jtoney40/engr3/blob/main/media/ezgif.com-gif-maker.gif?raw=true
+
 
 
 ### Wiring
