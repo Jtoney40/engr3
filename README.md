@@ -7,6 +7,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [circuitpython_neopixle_with_distancesensor](#circuitpython_neopixle_sensor)
 * [circuitpython_motor_control](#circuitpython_motor_control)
 * [The Hanger onshape](#The_Hanger_onshape)
+* [ Multi-Part Design](#_Multi-Part_Design).
 ---
 
 
@@ -244,6 +245,9 @@ I had to make a multi parts using drawings. There are mutiple parts to this asig
 
 ### Evidence
 
+![multipart](https://github.com/Jtoney40/engr3/assets/143732462/ff45efed-374e-467b-b762-938a84b5cb4b)
+![multpart](https://github.com/Jtoney40/engr3/assets/143732462/bf424360-da5c-439c-8166-7235c7d15cbc)
+![parts mulit](https://github.com/Jtoney40/engr3/assets/143732462/c443c3f2-4b9f-47d6-8f82-9db88bee1d57)
 
 
 
