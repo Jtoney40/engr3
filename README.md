@@ -184,6 +184,8 @@ https://github.com/Jtoney40/engr3/blob/main/media/ezgif.com-gif-maker%20(1).gif?
 ### Wiring 
 ![Screenshot 2023-10-10 105200](https://github.com/Jtoney40/engr3/assets/143732462/4021a862-a48a-49f4-8bc4-4c12d31d34b1)
 
+### reflection 
+I learned that code for mottors can be very easy to do and you can make it very short. I also learned that if statements only work ifr there is a variable for it.
 
 ## The Hanger onshape
 
