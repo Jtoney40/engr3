@@ -7,7 +7,8 @@ This repository will actually serve as an aid to help you get started with your 
 * [circuitpython_neopixle_with_distancesensor](#circuitpython_neopixle_sensor)
 * [circuitpython_motor_control](#circuitpython_motor_control)
 * [The Hanger onshape](#The_Hanger_onshape)
-* [ Multi-Part Design](#_Multi-Part_Design).
+* [ Multi-Part Design](#Multi-Part_Design).
+*[Single_part](#Single_Part).
 ---
 
 
@@ -261,4 +262,26 @@ https://cvilleschools.onshape.com/documents/8d6cb4f1f23619488b541efa/w/61bd722aa
 
 ### Reflection
 The parts that went wrong was I made it the wrong width so the cut didn't work so make sure you read the drawing right. The work was very hard to do when I haven't done it for a while. Make sure that you make all of your lines defined.
+
+
+
+## Single Part
+
+### Assignment Description
+I had to make a single part which is easier than a muti-part.
+
+
+### Evidence
+![image](https://github.com/Jtoney40/engr3/assets/143732462/b7278dce-5660-44c1-a5e3-9c87d14b65ae)
+![image](https://github.com/Jtoney40/engr3/assets/143732462/85d10841-a31d-4e13-8e75-378ee9f5781c)
+![image](https://github.com/Jtoney40/engr3/assets/143732462/edbc4fe7-cc75-41e6-92f7-096fc9d8bd3e)
+
+
+### Part Link 
+https://cvilleschools.onshape.com/documents/578652328b3f23eaa1d991cf/w/9f6af31d704990f048e88151/e/f79ee10d4dde4b1147e4c7f8?renderMode=0&uiState=6543c13ae2bd97659ed49d7b
+
+### Reflection
+The part was overall very easy to do and you can do one half then just mirror it all.
+
 ****
+
