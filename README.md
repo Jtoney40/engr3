@@ -285,3 +285,18 @@ The part was overall very easy to do and you can do one half then just mirror it
 
 ****
 
+## Plate
+
+### Assignment Description
+I had to make a prat that was very simple and only had one part.
+
+
+### Evidence
+![image](https://github.com/Jtoney40/engr3/assets/143732462/547c9dca-217a-4fb1-adae-1e6f064b2099)
+![image](https://github.com/Jtoney40/engr3/assets/143732462/1e84ec7e-dd5a-4517-947f-58956affd239)
+
+
+### Reflection
+The part was overall very easy to do and there was no problems at all.
+
+
