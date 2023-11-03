@@ -9,6 +9,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [The Hanger onshape](#The_Hanger_onshape)
 * [ Multi-Part Design](#Multi-Part_Design).
 *[Single_part](#Single_Part).
+*[Plate](#Plate_part).
 ---
 
 
