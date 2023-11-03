@@ -297,6 +297,6 @@ I had to make a prat that was very simple and only had one part.
 
 
 ### Reflection
-The part was overall very easy to do and there was no problems at all.
+The part was overall very easy to do and there was no problems at all. The part that was little tricky was reading the drawings that they gave us. Other than that it was very easy to do.
 
 
