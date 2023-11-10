@@ -10,6 +10,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [ Multi-Part Design](#Multi-Part_Design).
 *[Single_part](#Single_Part).
 *[Plate](#Plate_part).
+*[Mic_Holder](#Mic_Holder).
 ---
 
 
@@ -289,7 +290,7 @@ The part was overall very easy to do and you can do one half then just mirror it
 ## Plate
 
 ### Assignment Description
-I had to make a prat that was very simple and only had one part.
+I had to make a part that was very simple and only had one part.
 
 
 ### Evidence
@@ -301,3 +302,15 @@ I had to make a prat that was very simple and only had one part.
 The part was overall very easy to do and there was no problems at all. The part that was little tricky was reading the drawings that they gave us. Other than that it was very easy to do.
 
 
+## Mic_Holder
+
+### Assignment Description
+The part had to be made using only using a blue print. the part was very simple to do and was very easy for having a lot of parts. This part was very easy to do all of it.
+
+### Evidence
+![image](https://github.com/Jtoney40/engr3/assets/143732462/52e23803-f26a-4b1d-ae24-3941b8c4a166)
+![image](https://github.com/Jtoney40/engr3/assets/143732462/cf4909fd-60b2-4015-811b-f264dfcc8c21)
+![image](https://github.com/Jtoney40/engr3/assets/143732462/91b0853a-0d9d-4ba1-9508-8a0534cdc018)
+
+### Reflection
+Every thing I did was very easy to do. The only hard part was making sure that I did the right material. 
