@@ -20,7 +20,7 @@ button_state = None
 
 menu_index = 0
 
- 
+
 while True:
     menu_index = enc.position
     menu = ["stop", "caution", "go"]
