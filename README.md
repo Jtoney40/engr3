@@ -11,6 +11,7 @@ This repository will actually serve as an aid to help you get started with your 
 *[Single_part](#Single_Part).
 *[Plate](#Plate_part).
 *[Mic_Holder](#Mic_Holder).
+  [Rotary Encoder & LCD](#Rotary_Encoder_& _LCD)
 ---
 
 
@@ -314,3 +315,70 @@ The part had to be made using only using a blue print. the part was very simple 
 
 ### Reflection
 Every thing I did was very easy to do. The only hard part was making sure that I did the right material. 
+
+
+
+
+
+
+## Rotary Encoder & LCD
+
+
+### Description & Code Snippets
+import rotaryio #takes code from files.
+import board #takes code from files.
+import neopixel #takes code from files.
+import digitalio #takes code from files.
+from lcd.lcd import LCD #tells you what file it takes the code from.
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface #tells you what file it takes the code from.
+
+enc = rotaryio.IncrementalEncoder(board.D4, board.D3, divisor = 2) #tells you what pins it use and where to
+
+lcd = LCD(I2CPCF8574Interface(board.I2C(), 0x27), num_rows = 2, num_cols = 16)
+
+led = neopixel.NeoPixel(board.NEOPIXEL, 1)# allows for you to use the led/neopixel
+led.brightness = 0.3
+led[0] = (255, 0, 0)
+
+button = digitalio.DigitalInOut(board.D2)# the code for the button 
+button.direction = digitalio.Direction.INPUT# says that you can use the button as a input
+button.pull = digitalio.Pull.UP
+button_state = None  
+
+menu_index = 0
+
+
+while True:
+    menu_index = enc.position
+    menu = ["stop", "caution", "go"]# the states that the buttion can be in.
+    last_index = None
+    menu[0] = "stop"
+    menu[1] = "caution"
+    menu[2] = "go"  
+    menu_index_lcd = menu_index % 3
+    lcd.set_cursor_pos(0,0)
+    lcd.print("Push for: ")
+    lcd.set_cursor_pos(1,0)
+    lcd.print ("           ")
+    lcd.set_cursor_pos(1,0)
+    lcd.print(menu[menu_index_lcd])
+    print(menu_index_lcd)
+    if not button.value and button_state is None:
+        button_state = "pressed"
+    if button.value and button_state == "pressed":# the state the button is in.
+        print("Button is pressed")
+        button_state = None
+    if menu_index_lcd == 0:
+        led[0] = (255, 0, 0)
+    if menu_index_lcd == 1:
+        led[0] = (255, 255,0)
+    if menu_index_lcd == 2:
+        led[0] = (0, 255, 0) # makes the led color.
+    ```
+
+
+
+### Evidence
+![ezgif com-cut](https://github.com/Jtoney40/engr3/assets/143732462/831b6171-2d30-473a-97ba-f26f110c41eb)
+
+
