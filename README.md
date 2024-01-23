@@ -11,7 +11,7 @@ This repository will actually serve as an aid to help you get started with your 
 *[Single_part](#Single_Part).
 *[Plate](#Plate_part).
 *[Mic_Holder](#Mic_Holder).
-  [Rotary Encoder & LCD](#Rotary_Encoder_& _LCD)
+*[Rotary Encoder & LCD](#Rotary_Encoder_& _LCD)
 ---
 
 
