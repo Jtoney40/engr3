@@ -381,4 +381,8 @@ while True:
 ### Evidence
 ![ezgif com-cut](https://github.com/Jtoney40/engr3/assets/143732462/831b6171-2d30-473a-97ba-f26f110c41eb)
 
+### Wiring 
+![image](https://github.com/Jtoney40/engr3/assets/143732462/5d1d6bba-cdf5-4377-b1e9-29f7a6068e17)
+
+### Reflection 
 
