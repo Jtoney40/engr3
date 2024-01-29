@@ -7,11 +7,11 @@ This repository will actually serve as an aid to help you get started with your 
 * [circuitpython_neopixle_with_distancesensor](#circuitpython_neopixle_sensor)
 * [circuitpython_motor_control](#circuitpython_motor_control)
 * [The Hanger onshape](#The_Hanger_onshape)
-* [ Multi-Part Design](#Multi-Part_Design).
-* [Single_part](#Single_Part).
-* [Plate](#Plate_part).
-* [Mic_Holder](#Mic_Holder).
-* [Rotary Encoder & LCD](#Rotary_Encoder).
+* [ Multi-Part Design](#Multi-Part_Design)
+* [Single_part](#Single_Part)
+* [Plate](#Plate_part)
+* [Mic_Holder](#Mic_Holder)
+* [Rotary Encoder & LCD](#Rotary_Encoder)
 ---
 
 
