@@ -12,8 +12,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [Plate](#Plate_part)
 * [Mic_Holder](#Mic_Holder)
 * [Rotary Encoder & LCD](#Rotary_Encoder)
-
-*[Stepper_Motors_and_Limit_Switches](#Stepper_Motors_and_Limit_Switches)
+* [Stepper_Motors_and_Limit_Switches](#Stepper_Motors_and_Limit_Switches)
 
 ---
 
