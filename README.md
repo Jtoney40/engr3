@@ -13,6 +13,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [Mic_Holder](#Mic_Holder)
 * [Rotary Encoder & LCD](#Rotary_Encoder)
 *[Stepper_Motors_&_Limit_Switches](#Stepper_Motors_&_Limit_Switches)
+
 ---
 
 
