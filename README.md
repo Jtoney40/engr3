@@ -13,6 +13,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [Mic_Holder](#Mic_Holder)
 * [Rotary Encoder & LCD](#Rotary_Encoder)
 * [Stepper_Motors_and_Limit_Switches](#Stepper_Motors_and_Limit_Switches)
+*[Robot Gripper Design](#Robot_Gripper_Design)
 
 ---
 
@@ -468,3 +469,17 @@ So what I made it do was the button would tell the servo to move in a direction 
 
 ### Reflection
 
+
+
+## Robot_Gripper_Design
+
+### Assignment Description
+I had to make a robot arm that can pick up a deck of cards.
+
+### Evidence
+![image](https://github.com/Jtoney40/engr3/assets/143732462/28455c9e-2f02-49a3-bedc-229bbd5ebe80)
+![image](https://github.com/Jtoney40/engr3/assets/143732462/3fb44aff-f5d6-4002-b652-7d774f531d1c)
+
+
+### Reflection
+The first time i made it it didn't work because I made it too big. Then I did it for a seconde time and it work because I reflected on how I messed up the first time. The first time it was too thick.
