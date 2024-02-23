@@ -474,8 +474,13 @@ So what I made it do was the button would tell the servo to move in a direction 
 ## Robot_Gripper_Design
 
 ### Assignment Description
-I had to make a robot arm that can pick up a deck of cards.
+1. I had to make a robot arm that can pick up a deck of cards.
 
+2. It has to fully close.
+
+3. parts must be laser cut or 3D printed.
+
+4. must be fully essembly in onshape.
 ### Evidence
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/28455c9e-2f02-49a3-bedc-229bbd5ebe80)
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/94b893ec-3483-43e3-b3fe-0a4c0097b99c)
