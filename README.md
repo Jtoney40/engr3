@@ -13,7 +13,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [Mic_Holder](#Mic_Holder)
 * [Rotary Encoder & LCD](#Rotary_Encoder)
 * [Stepper_Motors_and_Limit_Switches](#Stepper_Motors_and_Limit_Switches)
-*[Robot Gripper Design](#Robot_Gripper_Design)
+* [Robot Gripper Design](#Robot_Gripper_Design)
 
 ---
 
@@ -478,7 +478,7 @@ I had to make a robot arm that can pick up a deck of cards.
 
 ### Evidence
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/28455c9e-2f02-49a3-bedc-229bbd5ebe80)
-![image](https://github.com/Jtoney40/engr3/assets/143732462/3fb44aff-f5d6-4002-b652-7d774f531d1c)
+![image](https://github.com/Jtoney40/engr3/assets/143732462/94b893ec-3483-43e3-b3fe-0a4c0097b99c)
 
 
 ### Reflection
