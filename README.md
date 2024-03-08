@@ -328,6 +328,7 @@ Every thing I did was very easy to do. The only hard part was making sure that I
 
 
 ### Description & Code Snippets
+    ```
 import rotaryio #takes code from files.
 import board #takes code from files.
 import neopixel #takes code from files.
