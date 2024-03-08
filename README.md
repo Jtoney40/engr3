@@ -389,7 +389,7 @@ while True:
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/5d1d6bba-cdf5-4377-b1e9-29f7a6068e17)
 
 ### Reflection 
-
+The assignment was really easy to do and over all no problems. But make sure your wiring is right.
 
 ## CircuitPython_Servo
 
@@ -541,7 +541,8 @@ asyncio.run(main())
 ```
 
 ### Evidence
-![ezgif com-video-to-gif-converter (2)](https://github.com/Jtoney40/engr3/assets/143732462/ee702161-e49c-45ba-954e-6d088b296ab1)
+![ezgif com-video-to-gif-converter (2)](https://github.com/Jtoney40/engr3/assets/143732462/03962de2-f79c-4db9-9bfa-b13ceaad117b)
+
 
 
 ### Wiring
