@@ -546,6 +546,7 @@ asyncio.run(main())
 
 
 ### Wiring
+![image](https://github.com/Jtoney40/engr3/assets/143732462/7b9b2fd4-1e4f-4525-b119-53ddabb0b12f)
 
 ### Reflection
 The Assigment was very hard I didn't know how to do a lot of it so it was a lot of learning. Also the code was hard to make sense of the code. I got help from the teacher which helped. Make sure you spell every thing right and the same way.
