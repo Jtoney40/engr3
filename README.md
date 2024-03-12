@@ -14,7 +14,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [Rotary Encoder & LCD](#Rotary_Encoder)
 * [Stepper_Motors_and_Limit_Switches](#Stepper_Motors_and_Limit_Switches)
 * [Robot Gripper Design](#Robot_Gripper_Design)
-
+*[IR Sensors](#IR_Sensors)
 ---
 
 
@@ -569,3 +569,44 @@ The Assigment was very hard I didn't know how to do a lot of it so it was a lot 
 
 ### Reflection
 The first time i made it it didn't work because I made it too big. Then I did it for a seconde time and it work because I reflected on how I messed up the first time. The first time it was too thick.
+
+## IR_Sensors
+
+### Description & Code Snippets
+ I had to light up a led with a ir sensor and have it cut off when you get to close.
+
+```python
+import board
+import neopixel
+import digitalio
+
+ir_sensor = digitalio.DigitalInOut(board.D2)
+ir_sensor.direction = digitalio.Direction.INPUT
+ir_sensor.pull = digitalio.Pull.UP
+
+led = neopixel.NeoPixel(board.NEOPIXEL, 1)
+led.brightness = 0.3
+led[0] = (255,0,0)
+
+while True:
+    if ir_sensor.value == 1:
+        print("Sensor is LOW")
+        led[0] = (255, 0, 0)
+
+    if ir_sensor.value == 0:
+        print("Sensor is HIGH")
+        led[0] = (0, 255, 0)
+```
+
+### Evidence
+ ![WIN_20240312_12_24_38_Pro-ezgif com-video-to-gif-converter (1)](https://github.com/Jtoney40/engr3/assets/143732462/cea4c8a2-83ce-4658-862f-70d8a654269b)
+
+
+
+### Wiring
+![image](https://github.com/Jtoney40/engr3/assets/143732462/edcc74b1-8974-4314-a692-5e8af4d9bb48)
+
+ 
+### Reflection
+ The hard part was having the right vaules and the right pins.
+
