@@ -14,8 +14,8 @@ This repository will actually serve as an aid to help you get started with your 
 * [Rotary Encoder & LCD](#Rotary_Encoder)
 * [Stepper_Motors_and_Limit_Switches](#Stepper_Motors_and_Limit_Switches)
 * [Robot Gripper Design](#Robot_Gripper_Design)
-*[IR Sensors](#IR_Sensors)
-*[Photointerrupters](#Photointerrupters)
+* [IR Sensors](#IR_Sensors)
+* [Photointerrupters](#Photointerrupters)
 
 ---
 
