@@ -606,7 +606,66 @@ while True:
 ### Wiring
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/edcc74b1-8974-4314-a692-5e8af4d9bb48)
 
- 
 ### Reflection
  The hard part was having the right vaules and the right pins.
+
+
+
+## Photointerrupters
+
+### Description & Code Snippets
+I had to code a photointerrupter to send a messege to a lcd screen saying how many times it got interrupted.
+
+```python
+import time 
+import digitalio
+import board
+from lcd.lcd import LCD
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
+
+photointerrupter = digitalio.DigitalInOut(board.D2)
+photointerrupter.direction = digitalio.Direction.INPUT
+photointerrupter.pull = digitalio.Pull.UP
+photointerrupter_state = None
+
+interrupt_counter = 0
+lcd = LCD(I2CPCF8574Interface(board.I2C(), 0x3f), num_rows=2, num_cols=16)
+lcd.set_cursor_pos(0,0)
+lcd.print("Interrupt count:") 
+now = time.monotonic()
+
+while True: 
+    print(interrupt_counter)
+    #print(photointerrupter_state)
+    #print(photointerrupter.value)
+    if not photointerrupter.value and photointerrupter_state is None:
+        photointerrupter_state = "Interrupted"
+       
+    if (photointerrupter.value == True) and (photointerrupter_state == "Interrupted"):
+        photointerrupter_state = None
+        print("Interrupted")
+        interrupt_counter = interrupt_counter +1
+    if (now + 0.003) < time.monotonic(): 
+        now = time.monotonic()
+        lcd.set_cursor_pos(1,0)
+        lcd.print(str(interrupt_counter))
+
+
+  +-
+```
+
+
+### Evidence
+![WIN_20240325_11_18_18_Pro-ezgif com-video-to-gif-converter (1)](https://github.com/Jtoney40/engr3/assets/143732462/6fecfcb0-394c-4c73-b7d2-8c21778c7bfe)
+
+
+### Wiring
+![image](https://github.com/Jtoney40/engr3/assets/143732462/983731ca-b158-4733-b8db-aed1aa077f47)
+
+
+
+### Reflection
+The hard part of this was making sure what my lcd pin was and having to use the code to check it.
+ 
+
 
