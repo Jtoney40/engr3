@@ -16,7 +16,7 @@ This repository will actually serve as an aid to help you get started with your 
 * [Robot Gripper Design](#Robot_Gripper_Design)
 * [IR Sensors](#IR_Sensors)
 * [Photointerrupters](#Photointerrupters)
-
+* [Many parts ](#Many_parts) 
 ---
 
 
