@@ -668,6 +668,19 @@ while True:
 
 ### Reflection
 The hard part of this was making sure what my lcd pin was and having to use the code to check it.
+
+
+## Many parts 
+
+### Description 
+I had to make a tool and put it all togather and make sure that it works.
+
+### Evidence
+![image](https://github.com/Jtoney40/engr3/assets/143732462/8487b2a4-2978-47cc-9a97-567810dfc31c)
+![image](https://github.com/Jtoney40/engr3/assets/143732462/1805a133-2f26-40b8-98a2-ab20949b3110)
+
+### Reflection
+The only part I found hard was making the part equal to each other because they made the parts look weird when you try to do so.
  
 
 
