@@ -670,7 +670,7 @@ while True:
 The hard part of this was making sure what my lcd pin was and having to use the code to check it.
 
 
-## Many parts 
+## Many_parts 
 
 ### Description 
 I had to make a tool and put it all togather and make sure that it works.
