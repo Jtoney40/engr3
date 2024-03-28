@@ -581,17 +581,18 @@ The first time i made it it didn't work because I made it too big. Then I did it
 import board
 import neopixel
 import digitalio
+# Allows for the code to work with these.
 
-ir_sensor = digitalio.DigitalInOut(board.D2)
-ir_sensor.direction = digitalio.Direction.INPUT
+ir_sensor = digitalio.DigitalInOut(board.D2) #tells you what the pin is for the ir sensor.
+ir_sensor.direction = digitalio.Direction.INPUT# gives it a input
 ir_sensor.pull = digitalio.Pull.UP
 
-led = neopixel.NeoPixel(board.NEOPIXEL, 1)
+led = neopixel.NeoPixel(board.NEOPIXEL, 1)#the code for the neopixle
 led.brightness = 0.3
 led[0] = (255,0,0)
 
 while True:
-    if ir_sensor.value == 1:
+    if ir_sensor.value == 1: # what runs the ir sensor
         print("Sensor is LOW")
         led[0] = (255, 0, 0)
 
