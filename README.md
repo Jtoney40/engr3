@@ -609,7 +609,7 @@ while True:
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/edcc74b1-8974-4314-a692-5e8af4d9bb48)
 
 ### Reflection
- The hard part was having the right vaules and the right pins.
+ The hard part was having the right vaules and the right pins. Also finding how to code it all and having to wire it with out breaking.
 
 
 
