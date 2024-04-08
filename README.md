@@ -318,6 +318,9 @@ The part had to be made using only using a blue print. the part was very simple 
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/cf4909fd-60b2-4015-811b-f264dfcc8c21)
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/91b0853a-0d9d-4ba1-9508-8a0534cdc018)
 
+### Part Link
+https://cvilleschools.onshape.com/documents/dcc44cd528f0be2d80269aa4/w/623021fde205304d14279cf2/e/4ccd2c9385fb16f246f0adb3?renderMode=0&uiState=66140e85bed4e1394c2aa3e2 
+
 ### Reflection
 Every thing I did was very easy to do. The only hard part was making sure that I did the right material. 
 
@@ -571,6 +574,8 @@ The Assigment was very hard I didn't know how to do a lot of it so it was a lot 
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/28455c9e-2f02-49a3-bedc-229bbd5ebe80)
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/94b893ec-3483-43e3-b3fe-0a4c0097b99c)
 
+### PART LINK 
+https://cvilleschools.onshape.com/documents/9518bf8fe9f621e00694a314/w/c32f8507d13e886b0da60a8d/e/ee21a647c8ad5231ddf940a7?renderMode=0&uiState=66140d2cbed4e1394c2a9b89 
 
 ### Reflection
 The first time i made it it didn't work because I made it too big. Then I did it for a seconde time and it work because I reflected on how I messed up the first time. The first time it was too thick.
@@ -682,6 +687,9 @@ I had to make a tool and put it all togather and make sure that it works.
 ### Evidence
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/8487b2a4-2978-47cc-9a97-567810dfc31c)
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/1805a133-2f26-40b8-98a2-ab20949b3110)
+
+### Part Link
+https://cvilleschools.onshape.com/documents/c95bdc9704b46a0ba9cfb4a9/w/65abfacdff51609a2f476c2f/e/84ef229f518be073f67198bb?renderMode=0&uiState=66140e0fd90cf033e0d20982 
 
 ### Reflection
 The only part I found hard was making the part equal to each other because they made the parts look weird when you try to do so.
