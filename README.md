@@ -330,6 +330,9 @@ Every thing I did was very easy to do. The only hard part was making sure that I
 
 
 ### Description & Code Snippets
+You had to use a joy stick to change the words on the lcd screen and make it say go, cotion, and stop and make the neopixle change colors when those words are printed.
+
+
 ```python
 import rotaryio #takes code from files.
 import board #takes code from files.
@@ -391,7 +394,7 @@ while True:
 ![image](https://github.com/Jtoney40/engr3/assets/143732462/5d1d6bba-cdf5-4377-b1e9-29f7a6068e17)
 
 ### Reflection 
-The assignment was really easy to do and over all no problems. But make sure your wiring is right.
+The assignment was really easy to do and over all no problems. But make sure your wiring is right so you don't break anything. The menu was hard because you have to make sure that it fits on your screen. Plus knowing what numbers make the color what you need it to be.
 
 ## CircuitPython_Servo
 
